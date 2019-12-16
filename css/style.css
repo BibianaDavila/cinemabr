@@ -50,6 +50,9 @@ hr{
     max-width: 80px;
     border-top: 7px dotted #ff3b3b;
 }
+.ig-logo{
+    display: none !important;
+}
 .space{
     padding: 30px 0;
 }

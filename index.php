@@ -20,7 +20,6 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="shortcut icon" href="icon.png" />
-
 	<!-- 
 	//////////////////////////////////////////////////////
 
@@ -95,6 +94,10 @@
 				  			<p> 
 				  				A Igreja Universal nega tais acusações e afirma que a compra de ingressos em grandes lotes e distribuição gratuita das entradas foi organizada pelos fiéis de forma independente.
 				  			</p>
+				  			<div class="space">
+				  			<h5>Trailer de <i>Nada a Perder</i></h5>
+				  			<iframe width="640" height="360" src="https://www.youtube.com/embed/fs7sZBWlvf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  			</div>
 				  			<p> 
 				  				Discussão antiga, a precisão destes números pode ganhar um interesse renovado nos próximos anos por causa dos planos do governo federal para a Ancine. Otávio Rêgo Barros, porta-voz da Presidência da República, já afirmou que “é muito importante que o produto da agência esteja alinhado com o sentimento da maioria da nossa sociedade. Um sentimento de dever, de cultura adequada, um sentimento cristão”. Semanas depois, Jair Bolsonaro corroborou a fala, afirmando que, ao seu ver, o próximo presidente da Ancine deveria ser capaz de "recitar de cor 200 versículos bíblicos" e ter pernas machucadas de tanto ajoelhar. 
 				  			</p>
@@ -143,6 +146,10 @@
 							<p>
 								Segundo ela, as produções apresentam um “novo arquétipo de mulher no audiovisual brasileiro: a determinada, bem sucedida, empreendedora, feminina, consumista, mas que no fundo, no fundo, quer acima de tudo, um homem ao lado para chamar de seu – esse é o componente principal de sua real felicidade e equilíbrio”.
 							</p>
+							<div class="space">
+								<h5>Trailer de <i>De Pernas pro Ar</i></h5>
+								<iframe width="640" height="360" src="https://www.youtube.com/embed/BLbxNDADgBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</div>
 							<p>
 								Então, se por um lado a aceitação do público é grande, os críticos apreciam com desconfiança essa faceta do cinema nacional. A própria Vasconcelos aponta que estes filmes  “são feitos para uma audiência genérica, desterritorializada, cuja educação audiovisual é baseada na TV e no cinema hollywoodiano”.
 							</p>
@@ -174,11 +181,15 @@
 							<h1 class="space">O Cinema e a Violência</h1>
 							<hr/>
 			  				<p>
-			  					Missão dada é missão comprida? Não a dúvida de que o primeiro longa <i>Tropa de Elite</i> (2007), de José Padilha, entrou rapidamente para o imaginário dos brasileiros, com frases do Capitão Nascimento (Wagner Moura) repetidas a exaustão na última década. Ainda assim, graças ao vazamento do filme de forma pirata, em DVDs e a internet, o público foi de cerca de 2,4 milhões de pessoas nas salas de cinema, o deixando no 36º lugar do ranking.
+			  					Missão dada é missão comprida? Não há dúvida de que o primeiro longa <i>Tropa de Elite</i> (2007), de José Padilha, entrou rapidamente para o imaginário dos brasileiros, com frases do Capitão Nascimento (Wagner Moura) repetidas a exaustão na última década. Ainda assim, graças ao vazamento do filme de forma pirata, em DVDs e a internet, o público foi de cerca de 2,4 milhões de pessoas nas salas de cinema, o deixando no 36º lugar do ranking.
 			  				</p>
 			  				<p>
 			  					A continuação, de 2010, não enfrentou os mesmos problemas e na época bateu os recordes de bilheteria, com 11 milhões de ingressos comercializados. Desta forma, chegou ao terceiro lugar do ranking de filmes mais populares — atrás apenas dos polêmicos <i>Nada a Perder</i> e <i>Os Dez Mandamentos</i>.  
 			  				</p>
+			  				<div class="space">
+			  					<h5>Trailer <i>Tropa de Elite 2</i></h5>
+			  					<iframe width="640" height="360" src="https://www.youtube.com/embed/-JbE6rjjyD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  				</div>
 			  				<p>
 			  					Cineasta com as raízes no documentário, Padilha divide o espaço na lista com outras obras que mostram retratos mais crus — e por isso mesmo violentos — do Brasil: <i>Carandiru</i> (2003), de Héctor Babenco, em oitava posição, e <i>Cidade de Deus</i> (2002), de Fernando Meirelles, no 17º lugar.
 			  				</p>
