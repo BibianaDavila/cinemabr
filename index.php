@@ -96,7 +96,7 @@
 				  			</p>
 				  			<div class="space">
 				  			<h5>Trailer de <i>Nada a Perder</i></h5>
-				  			<iframe width="640" height="360" src="https://www.youtube.com/embed/fs7sZBWlvf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  			<iframe width="640" height="360" src="https://www.youtube.com/embed/fs7sZBWlvf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%"></iframe>
 				  			</div>
 				  			<p> 
 				  				Discussão antiga, a precisão destes números pode ganhar um interesse renovado nos próximos anos por causa dos planos do governo federal para a Ancine. Otávio Rêgo Barros, porta-voz da Presidência da República, já afirmou que “é muito importante que o produto da agência esteja alinhado com o sentimento da maioria da nossa sociedade. Um sentimento de dever, de cultura adequada, um sentimento cristão”. Semanas depois, Jair Bolsonaro corroborou a fala, afirmando que, ao seu ver, o próximo presidente da Ancine deveria ser capaz de "recitar de cor 200 versículos bíblicos" e ter pernas machucadas de tanto ajoelhar. 
@@ -148,7 +148,7 @@
 							</p>
 							<div class="space">
 								<h5>Trailer de <i>De Pernas pro Ar</i></h5>
-								<iframe width="640" height="360" src="https://www.youtube.com/embed/BLbxNDADgBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<iframe width="640" height="360" src="https://www.youtube.com/embed/BLbxNDADgBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen  style="max-width: 100%"></iframe>
 							</div>
 							<p>
 								Então, se por um lado a aceitação do público é grande, os críticos apreciam com desconfiança essa faceta do cinema nacional. A própria Vasconcelos aponta que estes filmes  “são feitos para uma audiência genérica, desterritorializada, cuja educação audiovisual é baseada na TV e no cinema hollywoodiano”.
@@ -188,7 +188,7 @@
 			  				</p>
 			  				<div class="space">
 			  					<h5>Trailer <i>Tropa de Elite 2</i></h5>
-			  					<iframe width="640" height="360" src="https://www.youtube.com/embed/-JbE6rjjyD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  					<iframe width="640" height="360" src="https://www.youtube.com/embed/-JbE6rjjyD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen  style="max-width: 100%"></iframe>
 			  				</div>
 			  				<p>
 			  					Cineasta com as raízes no documentário, Padilha divide o espaço na lista com outras obras que mostram retratos mais crus — e por isso mesmo violentos — do Brasil: <i>Carandiru</i> (2003), de Héctor Babenco, em oitava posição, e <i>Cidade de Deus</i> (2002), de Fernando Meirelles, no 17º lugar.

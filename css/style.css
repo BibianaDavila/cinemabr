@@ -349,18 +349,42 @@ nav{
 }
 
 @media only screen and (max-width: 767px){
-    .correlac-leg{
-        padding-left: 15px;
+    .content-center{
+        padding-right: 25px;
     }
+    h1{
+        font-size:1em;
+    }
+    h1.large{
+     font-size:1.3em;   
+    }
+    p.large{
+        font-size: .9em;
+    }
+    h5{
+        font-size: 0.9em;
+    }
+    .legenda{
+        float: none;
+    }
+    .space {
+        padding: 10px 0 5px 0;
+    }
+    hr {
+        margin-left: 0;
+        margin-bottom: 1rem;
+        width: 20%;
+        max-width: 80px;
+        border-top: 4px dotted #ff3b3b;
+    }
+
 }
 
 @media only screen and (max-width:575px){
     body{
         padding: 0px 25px;
     }
-    h1{
-        font-size:3em;
-    }
+
     h3{
         font-size: 1.4em;
     }
@@ -386,4 +410,5 @@ nav{
         padding-top: 50px;
         top: auto;
     }
+
 }
